@@ -2,6 +2,7 @@
 Discord Server - [MCPixel - Discord Server](https://discord.gg/pzvPpUWmsp)
 
 Version Release 1.2-newer
+
 Latest Release: Release 1.1
 
 ## Info
