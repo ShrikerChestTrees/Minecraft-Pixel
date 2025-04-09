@@ -1,0 +1,1 @@
+Move this folder to your Desktop and that's it!
