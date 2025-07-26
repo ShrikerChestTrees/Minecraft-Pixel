@@ -3,6 +3,11 @@ set "LOCAL_VERSION=1.0.0"
 
 :: Start
 
+if "%~1"=="check_name" (
+    call :test_downloader soft
+    exit /b
+)
+
 if "%~1"=="check_launcher_update" (
     call :check_github soft
     exit /b
@@ -46,7 +51,7 @@ echo Page: %GITHUB_RELEASE_URL%%GITHUB_VERSION%
 :: Choice
 
 set "CHOICE="
-set /p "CHOICE=Do you want auto-download new version? (Y/N) (default: Y) "
+set /p "CHOICE=MCPixel Launcher: Do you want auto-download new version? (Y/N) (Default: Y) "
 if "%CHOICE%"=="" set "CHOICE=Y"
 if /i "%CHOICE%"=="y" set "CHOICE=Y"
 
@@ -59,3 +64,8 @@ if /i "%CHOICE%"=="Y" (
 if "%1"=="soft" exit /b
 pause
 goto menu
+
+:: Check Name
+
+:test_downloader
+set "ServiceName=MCPixel Downloader"
