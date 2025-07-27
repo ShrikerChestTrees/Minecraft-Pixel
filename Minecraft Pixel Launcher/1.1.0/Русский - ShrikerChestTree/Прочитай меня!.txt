@@ -1,7 +1,7 @@
 Minecraft Pixel
 Игра создана на Paint 3D
 
-Требование из версии MPAT1-MPR1.1: Скачать Paint (Windows XP-11+) или Paint 3D (Windows 10-11+) или Adobe Photoshop 2020-новее (Windows 7-11+),  Adobe Photoshop Beta (Нейросетка) и другие приложения
+Требование из версии MPAT1-MPR1.1: Скачать Paint (Windows XP-11+)/Paint 3D (Windows 10-11+)/Adobe Photoshop 2020-новее (Windows 7-11+),  Adobe Photoshop Beta (Нейросетка) и другие приложения
 Требование из версии MPR1.2-новее: Скачать Paint.NET (Windows 10(21H2)-11+)/GIMP (Windows 7-11+)
 
 Версия Release 1.2-новее
