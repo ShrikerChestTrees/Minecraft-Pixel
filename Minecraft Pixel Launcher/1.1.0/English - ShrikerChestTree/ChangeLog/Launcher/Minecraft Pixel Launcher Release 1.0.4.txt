@@ -1,0 +1,2 @@
+28.07.2023 4:45 PM 1.0.4(.1)
+Changed sorting of versions in "Versions"

@@ -1,0 +1,11 @@
+Version Pre Release 1 29.07.2023 3:40 PM
+Finally waited for this one!
+
+ChangeLog
+There was a Russian Inventory on the English tutorial which we fixed!
+Fixed in English inventory texture and inventory from the chest!
+Added Network play!
+Added creativity!
+Changes in the Inventory!
+Fast loading!
+Russian language loading!

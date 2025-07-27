@@ -1,0 +1,18 @@
+Version 24w03a2 03/25/2024 11:27 PM
+
+ChangeLog
+- Increased the width of the world!
+- Added air scale, armor!
+- PvP system from 1.9 (Minecraft Java Edition)
+- Now you can see what the mobs are holding in their hands!
+- Changed Hardcore!
+- Increased the width of the flat world!
+- Added new biomes!
+- Added generation of glowing stones in Nether!
+- Small fixes...
+- Added a new mob - Spider!
+- Changed the texture of the creeper!
+- Changed the texture of the cactus!
+- Changed the texture of the birch tree!
+- Changed the texture of the oak tree!
+- Appeared in the world arrow indicating the location of the player!

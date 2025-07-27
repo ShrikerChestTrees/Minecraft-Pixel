@@ -1,0 +1,12 @@
+Version 24w03a1 03/24/2024 3:23 PM
+
+ChangeLog
+- New Play Network!
+- This is the Snapshot for 1.1!
+- Now removed RTX graphics :(
+- Added Clouds!
+- Added Hardcore!
+- Changes when Start Game!
+- Added Nether Fortress in Nether!
+- Changed the Mountain! (The one on the left)
+- Changes to "Created the game MCPixel"!

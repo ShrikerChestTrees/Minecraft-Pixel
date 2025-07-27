@@ -1,0 +1,16 @@
+Version Release 1.1 01/18/2025 3:07 PM
+
+ChangeLog
+- New texture of Netherrack, Dirt, Sand, and Red Sand!
+- Steve new texture is now in Flat World!
+- Fast Graphics update!
+- New Hotbar texture!
+- Fix "World" (Old version of the transparent block cave has been removed)
+- Removed loading progress!
+- Updated Tutorial!
+- One background has been updated!
+- Updated Achievements texture!
+- Updated Inventory.
+- Added a "Player" folder to the "Play Network"!
+- Added Endermen and peaceful mobs to the new generation!
+- Updated Bedrock generation in the old generation!

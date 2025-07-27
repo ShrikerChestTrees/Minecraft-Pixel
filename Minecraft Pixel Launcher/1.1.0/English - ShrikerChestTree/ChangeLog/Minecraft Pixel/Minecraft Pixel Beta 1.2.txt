@@ -1,0 +1,7 @@
+Version Beta 1.2 12.17.2022 2:20 PM
+
+ChangeLog
+Nether Update
+Now use the portal to move to the Nether where other monsters live!
+Added inventory!
+The loading of the game has become even faster!

@@ -1,0 +1,3 @@
+Version Minecraft Pixel Launcher 1.0.0 29.09.2022 4:39 PM
+
+Added a launcher for selecting versions!

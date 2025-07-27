@@ -1,0 +1,5 @@
+Version Beta 1.1 2.10.2022 12:32 PM
+
+ChangeLog
+Fast Graphics Have Been Changed!
+The loading of the game has become even faster!

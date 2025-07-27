@@ -1,0 +1,9 @@
+Version Pre Release 3 7.10.2023 11:04 PM
+Ender Update Part 2
+
+ChangeLog
+- Updated Tutorial!
+- This is unfortunately not a release :(
+- Finalized End dimension!
+- Changed Graphics!
+- Fast loading game!

@@ -1,0 +1,10 @@
+8.10.2023 11:17 AM
+Version: 1.0.5
+
+ChangeLog
+- Release 1 is out!
+- Changes to "Read me!"
+- Changes to the release information!
+- Now the game is available for everyone with Discord Server!
+- Changes in "Our Discord Server!"
+- Version names have been changed in the Russian version!

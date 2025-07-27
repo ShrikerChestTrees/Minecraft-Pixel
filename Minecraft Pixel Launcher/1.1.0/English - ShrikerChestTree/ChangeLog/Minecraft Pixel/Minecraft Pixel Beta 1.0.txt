@@ -1,0 +1,6 @@
+Version Beta 1.0 30.09.2022 5:38 PM
+ 
+ChangeLog
+3 layers for 3D illusion in 2D world
+Added a flat world!
+Fast loading!

@@ -1,0 +1,9 @@
+Version Snapshot 25w03a1 03/29/2025 9:33 AM - 04/9/2025 8:32 PM
+
+ChangeLog
+- Renamed "Play" -> "Old"
+- Removed "Options"
+- Now only Paint.NET (Windows 10(21H2)-Windows 11) is needed.
+- New .pdn format (pictures with layers)
+- New Menu!
+- Changes in "Fancy" graphics!

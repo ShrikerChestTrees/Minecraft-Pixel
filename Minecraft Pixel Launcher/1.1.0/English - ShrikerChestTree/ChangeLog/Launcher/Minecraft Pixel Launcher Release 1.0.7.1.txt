@@ -1,0 +1,6 @@
+04/06/2024 1:46 PM
+Version: 1.0.7.1
+
+ChangeLog
+
+- The "Version" now shows the latest version ("(Latest)")

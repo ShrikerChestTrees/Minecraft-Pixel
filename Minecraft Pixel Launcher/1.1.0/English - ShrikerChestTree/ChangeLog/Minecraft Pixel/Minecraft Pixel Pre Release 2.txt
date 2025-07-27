@@ -1,0 +1,8 @@
+Version Pre Release 2 30.07.2023 12:06 PM
+The End Update Part 1
+
+ChangeLog
+Changes to the Dimension The End!
+Added to the Flat World (Fast/Fancy) and World (Fast) folders of Dimension The End!
+Added "Crafts" option
+Added a new craft for the new block "End Block"!

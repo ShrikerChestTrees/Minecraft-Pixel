@@ -1,0 +1,18 @@
+Версия 1.1 Pre Release 04/06/2024 1:48 PM
+
+ChangeLog
+- Generating low grass and high grass!
+- Added to the inventory of Achievements (Beta)!
+- New inventory background!
+- New HUD!
+- Fixed Hardcore!
+- Added nezer from normal world to flat world!
+- Added new biomes!
+- Changed Steve texture!
+- Changed zombie texture!
+- Changed inventory texture!
+- Refined ore generation on the new expanded world!
+- Returned Quick graphics, which now have a new look!
+- Updated the Tutorial map
+- Added "README" for newcomers to the game's start menu!
+- Small fixes...

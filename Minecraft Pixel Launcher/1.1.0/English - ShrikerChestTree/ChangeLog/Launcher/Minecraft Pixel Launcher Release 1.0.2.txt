@@ -1,0 +1,6 @@
+Version Minecraft Pixel Launcher 1.0.2 2.10.2022 12:33 PM
+
+ChangeLog
+Language selection
+Fixed the name on Minecraft Pixel 1.0! (Then Minecraft Pixel 1.1)
+Fixed file: Read me!

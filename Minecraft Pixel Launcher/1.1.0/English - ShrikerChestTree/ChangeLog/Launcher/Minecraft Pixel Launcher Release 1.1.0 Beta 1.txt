@@ -1,0 +1,8 @@
+03/29/2025 9:33 AM - 04/9/2025 8:32 PM
+Version: 1.1.0 Beta 1
+
+ChangeLog
+- The first beta of the Launcher! (Major Update)
+- Small changes to "Read me!" (Launcher start menu)
+- Added "ChangeLog" folder which now contains "Minecraft Pixel Update" -> "Minecraft Pixel" and "Launcher Update" -> "Launcher" folders
+- Now in "Versions" you will have to download the version! (May change in the future!)

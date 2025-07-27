@@ -1,0 +1,7 @@
+22.03.2024 8:53 PM
+Version: 1.0.6
+
+ChangeLog
+- Changes to "Update Minecraft Pixel"
+- 1 snapshot for Release 1.1 has been released
+- Many different versions from Minecraft have been released!

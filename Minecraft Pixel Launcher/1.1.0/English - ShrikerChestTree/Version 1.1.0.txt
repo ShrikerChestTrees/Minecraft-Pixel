@@ -1,0 +1,13 @@
+04/10/2025 12:37 AM - 07/27/2025 10:18 PM
+Version: 1.1.0
+
+ChangeLog
+- New versions of launcher will now be installed via the "check_launcher_update.bat" batch file!
+- New versions of the game will now be installed via .url files!
+- Launcher with all versions of the game has been moved to GitHub! (Reduced launcher size)
+- The author's name has been added to the language selection! (You can now suggest/add your own language versions!)
+- Now each new version of launcher will be a separate folder!
+- Fixed version name in /Changes/Minecraft Pixel!
+- Unfortunately there will no longer be a "(Latest)" label for versions
+- Minor changes to some files from 1.1.0 Beta 1
+- Date correction in "Minecraft Pixel Launcher Release 1.0.1"

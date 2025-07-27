@@ -1,0 +1,5 @@
+Version Beta 1.2.1 27.07.2023 12:24 PM
+
+ChangeLog
+Added Tutorial!
+The loading of the game has become even faster!

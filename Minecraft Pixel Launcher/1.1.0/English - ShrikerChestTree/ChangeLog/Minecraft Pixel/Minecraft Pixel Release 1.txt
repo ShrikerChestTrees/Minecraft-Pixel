@@ -1,0 +1,8 @@
+Version Release 1 8.10.2023 11:15 AM
+Release Update!
+
+ChangeLog
+- Updated Tutorial
+- It's a Release!!!
+- There are now RTX graphics!
+- Changes in the game menu

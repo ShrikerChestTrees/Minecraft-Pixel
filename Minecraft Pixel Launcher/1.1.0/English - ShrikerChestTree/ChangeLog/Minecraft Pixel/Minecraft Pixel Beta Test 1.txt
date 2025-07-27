@@ -1,0 +1,7 @@
+Version Beta Test 1 29.09.2022 6:35 PM
+
+ChangeLog
+Added 2 more biomes: Desert and Savanna!
+Added ores!
+Added Steve!
+Added Loadnig!
