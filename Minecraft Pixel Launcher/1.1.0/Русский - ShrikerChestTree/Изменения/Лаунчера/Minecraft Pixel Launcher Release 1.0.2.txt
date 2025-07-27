@@ -1,0 +1,6 @@
+Версия Minecraft Pixel Launcher 1.0.2 2.10.2022 12:33
+
+ChangeLog
+Выбор языка
+Исправленно название на Minecraft Pixel 1.0! (Тогда Minecraft Pixel 1.1)
+Исправлен файл: Прочитай меня!
