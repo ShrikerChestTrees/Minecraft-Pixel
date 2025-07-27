@@ -52,7 +52,7 @@ if /i "%CHOICE%"=="y" set "CHOICE=Y"
 
 if /i "%CHOICE%"=="Y" (
     echo Loading...
-    start "" "%GITHUB_DOWNLOAD_URL%%GITHUB_VERSION%.rar"
+    start "" "%GITHUB_DOWNLOAD_URL%%GITHUB_VERSION%.zip"
 )
 
 
